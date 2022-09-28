@@ -6,7 +6,7 @@
   "minimumCoreVersion": "10",
   "compatibleCoreVersion": "10",
   "author": "GnomBoltun",
-  "esmodules": ["module/boilerplate.mjs"],
+  "esmodules": ["module/ds1e.mjs"],
   "styles": ["css/boilerplate.css"],
   "scripts": [],
   "packs": [],
