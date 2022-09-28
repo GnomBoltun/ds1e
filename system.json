@@ -1,0 +1,28 @@
+{
+  "name": "ds1e",
+  "title": "Dark Souls TTRPG - 1e",
+  "description": "UNDER CONSTRUCTION",
+  "version": "0.0.1",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
+  "author": "GnomBoltun",
+  "esmodules": ["module/boilerplate.mjs"],
+  "styles": ["css/boilerplate.css"],
+  "scripts": [],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "gridDistance": 2,
+  "gridUnits": "m",
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "license": "LICENSE.txt"
+}
